@@ -1,0 +1,12 @@
+----- INSTALACION -----------------
+Instalacion de npm
+npm install -g npm@latest
+saber version de reat
+npm --version
+npm cache clean --force
+-----------------------------------
+---------- CREAR PROYECTO-----------
+npx create-react-app project-react
+-----------------------------------
+iniciar servidor
+npm start
