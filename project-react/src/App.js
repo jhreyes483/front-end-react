@@ -3,6 +3,7 @@ import './assets/css/App.css';
 
 // importar componestes
 import MiComponente from './components/MiComponente';
+import Peliculas from './components/Peliculas';
 
 function HolaMundo(nombre){
   var presentacion = <h2>Hola, soy {nombre}</h2>
@@ -25,6 +26,8 @@ function App() {
 
         <section className='componnetes'>
           <MiComponente/>
+          <Peliculas/>
+
         </section>
 
       </header>
