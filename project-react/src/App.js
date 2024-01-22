@@ -1,5 +1,7 @@
 import logo from './assets/images/logo.svg';
 import './assets/css/App.css';
+import './assets/css/bootstrap.min.css';
+import './assets/css/jav.css';
 
 // importar componestes
 import MiComponente from './components/MiComponente';
